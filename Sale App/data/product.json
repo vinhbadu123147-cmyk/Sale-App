@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 16",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6eClmA6JriHY8nbyTdA70-K1FHNsCseOAARQowcZqPg&s=10"
+  },
+  {
+    "id": 2,
+    "name": "Iphone 17",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://24hstore.vn/images/products/2025/09/10/large/iphone-17-1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Galaxy S25 Ultra",
+    "price": 25000000 ,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTOnLU3hEWiM0lTTGw4YChh3VLPkPNfQ5xpVq3JNagO0GCp-W3KVPNS7WNlPBn1WbalgxTZeAbH9_1MSl0oVaYKhRxFVxrsqj0h3GbDqOXroGotZOe9HLsk_ADavhqmJcbhNzlibsjl7g&usqp=CAc"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy A37",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0AR08uLy_3UJoodQc5YrZ0aQ-fEdJBngvZQfXYfbcg&s"
+  },
+  {
+    "id": 5,
+    "name": "Iphone 18",
+    "price": 40000000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXvf4oB_LIwFA9ZP1uya9eMLEVi-d7MURRtQI6SUeBIgteUMDdlfQFbfq_S5xdOk7S_N910eu_9F1gdqAubOEECtaaCYeyQI0RczrrOaJ_si88Y56f5EIZGwiItz3FPsCMYXdRdio&usqp=CAc"
+  },
+  {
+    "id": 6,
+    "name": "Nokia 255",
+    "price": 20000000,
+    "cate_id": 1,
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSTeuI4uBnM47wAyA_VbXiqo8afBs1QfD0NcpEs2yGYxuEJT0Uz2GDDExnia_w0HJl3Ybe3yLDfkarQMcM0A2awXjYL9qdY3VsqZm-RiIzaNhLm9GM-YGRwZV1wP-xDmXac9N6Gri8&usqp=CAc"
+  },
+  {
+    "id": 7,
+    "name": "Lenovo Yoga 7 Oled",
+    "price": 27500000,
+    "cate_id": 3,
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQzEDa26R7z7ieuBE3XU1ledZjcjkxZ6mlFkWInux0bIWvF8txSgvQs271ghzcQq_ltcF_vYlbZPqtQ0ATtrb53jPV56H_zc7Xklxl5ctApJA4SuTH8ApEta6AmQdGzleBBgA7G02jIHYo&usqp=CAc"
+  },
+  {
+    "id": 8,
+    "name": "Ipad Pro M5",
+    "price": 39500000,
+    "cate_id": 2,
+    "image": "https://24hstore.vn/images/products/2026/09/17/large/iphone-18-pro-max-do_1789620366.jpg"
+  }
+]
